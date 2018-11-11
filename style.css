@@ -1,0 +1,78 @@
+body{
+	margin-left: 0;
+	background-color: white;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
+.gap {
+	margin-top: 15px;
+}
+
+.adeje {
+	background: url(banner.jpg);
+	background-size: cover;
+	height: 30vh;
+	width: 100vw;
+	padding-top: 15vh;
+	margin-bottom: 15px;
+	text-align: center;
+	margin-top: 15px;
+
+}
+
+.bottompic {
+	background: url(bottompic.jpg);
+	background-size: cover;
+	height: 30vh;
+	width: 100vw;
+	padding-top: 15vh;
+	margin-bottom: 15px;
+	text-align: center;
+	margin-left: 0;
+	margin-top: 15px;
+}
+
+.left {
+	text-align: left;
+}
+
+.full {
+	margin-top: 15px;
+}
+
+.duque {background: url(duque.jpeg);
+	background-size: cover;
+	height: 400px;
+	background-position: center;
+}
+
+.fanabe {
+	background: url(fanabe.jpg);
+	background-size: cover;
+	height: 400px;
+	background-position: center;
+}
+
+.paraiso {
+	background: url(paraiso.jpeg);
+	background-size: cover;
+	height: 400px;
+	background-position: center;
+}
+
+.one{
+	padding-top: 200px;
+	text-align: center;
+	color: black;
+	font-weight: bold;
+}
+
+.img-padding {
+	padding: 0 10px;
+	width: 100%;
+}
+
+
+
